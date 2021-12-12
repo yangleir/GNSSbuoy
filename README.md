@@ -1,9 +1,4 @@
 # GNSSbuoy
----
-title: gnss浮标数据共享
-date: 2021-12-12 15:20:18
-tags: [数据]
----
 
 ### 共享动机
 
@@ -71,8 +66,11 @@ https://zenodo.org/record/5774652
 
 如果数据对您的研究有用，也可以考虑引用如下论文：
 [1]LIN Z, LEI Y, YONGSHENG X, 等. Retrieving wave parameters with PPP mode from GNSS buoy measurements[J]. IEEE Geoscience and Remote Sensing Letters, 2020, Early Access. DOI:10.1109/LGRS.2020.3041846.
+
 [2]LEI Y, XINGHUA Z, P. M S, 等. First Calibration Results of Jason-2 and Saral/AltiKa Satellite Altimeters from the Qianliyan Permanent Facilities[J]. Advances in Space Research, 2017, 59(12): 2831–2842. DOI:https://doi.org/10.1016/j.asr.2017.02.044.
+
 [3]YANG L, XU Y, ZHOU X, 等. Calibration of an Airborne Interferometric Radar Altimeter over the Qingdao Coast Sea, China[J]. Remote Sensing, 2020, 12(10): 1651. DOI:10.3390/rs12101651.
+
 [4]杨磊, 周兴华, 王朝阳, 等. 基于GNSS浮标和验潮资料的HY-2A卫星雷达高度计绝对定标[J]. 海洋学报, 2017, 39(1): 111–120.
 
 
