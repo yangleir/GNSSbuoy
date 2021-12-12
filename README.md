@@ -31,11 +31,11 @@ https://zenodo.org/record/5774652
 ### 数据解算软件
 
 很多软件可以用于解算动态的浮标数据，比如：
-- GAMIT
-- Bernese
-- RtkLib
-- PPPpride
-- CSRS-PPP
+- [GAMIT](http://geoweb.mit.edu/gg/)
+- [Bernese GNSS](http://www.bernese.unibe.ch/)
+- [RTKLIB](http://www.rtklib.com/)
+- [PRIDE PPP-AR](http://pride.whu.edu.cn/indexone.shtml)
+- [CSRS-PPP](https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php)
 
 我们发现RtkLib容易上手，PPPpride对廉价芯片数据的处理更加优秀，CSRS-PPP更加智能化。GAMIT有点老，但是很经典，Bernese功能强大，是收费软件。此外还有一些其他的商业或者免费软件可以GNSS数据，无法一一列举。
 
