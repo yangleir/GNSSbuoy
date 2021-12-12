@@ -36,6 +36,7 @@ https://zenodo.org/record/5774652
 - RtkLib
 - PPPpride
 - CSRS-PPP
+
 我们发现RtkLib容易上手，PPPpride对廉价芯片数据的处理更加优秀，CSRS-PPP更加智能化。GAMIT有点老，但是很经典，Bernese功能强大，是收费软件。此外还有一些其他的商业或者免费软件可以GNSS数据，无法一一列举。
 
 ### 浮标应用场景
@@ -65,6 +66,7 @@ https://zenodo.org/record/5774652
 ```
 
 如果数据对您的研究有用，也可以考虑引用如下论文：
+
 [1]LIN Z, LEI Y, YONGSHENG X, 等. Retrieving wave parameters with PPP mode from GNSS buoy measurements[J]. IEEE Geoscience and Remote Sensing Letters, 2020, Early Access. DOI:10.1109/LGRS.2020.3041846.
 
 [2]LEI Y, XINGHUA Z, P. M S, 等. First Calibration Results of Jason-2 and Saral/AltiKa Satellite Altimeters from the Qianliyan Permanent Facilities[J]. Advances in Space Research, 2017, 59(12): 2831–2842. DOI:https://doi.org/10.1016/j.asr.2017.02.044.
